@@ -18,7 +18,7 @@ I'm a frontend developer at **Airchains**, building modular infra, rollups, and 
 
 - **Docs Site** – [airchains-network/docs](https://github.com/airchains-network/docs)  
   → Docusaurus-powered open source documentation platform  
-- **Switchyard (Junction Testnet)** – [airchains-network/junction](https://github.com/airchains-network/junction)  
+- **Varanasi Tesnet** – [airchains-network/junction](https://github.com/airchains-network/junction)  
   → Modular rollup settlement layer powered by Cosmos SDK
 
 ---
