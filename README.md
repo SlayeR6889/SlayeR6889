@@ -1,50 +1,51 @@
-## 👋 Hey there, I'm SlayeR (Shobhit Sharma)
+## 👋 Hey there, I'm Shobhit Sharma (aka SlayeR)
 
-I'm a frontend developer at **Airchains**, building modular infra, rollups, and tools around blockchain. I love clean UIs, strong APIs, and open-source everything.
+**Lead Frontend & Full Stack Developer | Web3 & Infrastructure Builder**
 
----
+I'm a developer with 3+ years of experience architecting and shipping high-performance web applications at scale. I specialize in building complex, data-heavy interfaces and modular infrastructure. I'm passionate about clean UIs, low-latency data visualizations, and writing code that stands the test of production. 
 
-### 🛠️ Tech Stack
-
-**Mostly use**  
-`Next.js` · `Tailwind CSS` · `Go` · `MongoDB`
-
-**Also familiar with**  
-`React.js` · `MySQL` · `PostgreSQL`
+Currently, I lead frontend development at **Airchains**, focusing on Web3 infrastructure, appchain tooling, and rollups. I am always open to discussing system architecture, open-source protocols, and interesting technical challenges.
 
 ---
 
-### 🚀 Current Projects
+### 🛠️ Technical Arsenal
 
-- **Docs Site** – [airchains-network/docs](https://github.com/airchains-network/docs)  
-  → Docusaurus-powered open source documentation platform  
-- **Varanasi Tesnet** – [airchains-network/junction](https://github.com/airchains-network/junction)  
-  → Modular rollup settlement layer powered by Cosmos SDK
-
----
-
-### 📌 Featured Repos
-
-- [`airchains-network/docs`](https://github.com/airchains-network/docs) – Community-editable docs site  
-- [`airchains-network/junction`](https://github.com/airchains-network/junction) – Core of the Switchyard chain  
+* **Languages:** TypeScript, JavaScript, Golang
+* **Frontend Ecosystem:** Next.js, React.js, Tailwind CSS
+* **Backend & Systems:** Node.js, Express.js, Gin, Cobra CLI
+* **Databases:** PostgreSQL, MySQL, MongoDB
+* **Web3 & Blockchain:** Smart Contract Interactions, Wallet Integrations (MetaMask, Keplr), WebSockets, DeFi Protocols
 
 ---
 
-### 🤓 Fun Facts
+### 🚀 What I Build
 
-- I’m a **book collector** with over **150 novels** stacked on my shelves 📚  
-- I also collect **playing cards**—lowkey, but passionately ♠️  
-- Big fan of privacy tech, homomorphic encryption, and open protocols 🧠  
+Instead of just writing UI components, I focus on the underlying architecture and performance. Some highlights of my work include:
 
----
-
-### 🌐 Connect with Me
-
-- [Twitter](https://x.com/Sl4yeR29)
-- [GitHub](https://github.com/SlayeR6889)
-- [LinkedIn](https://www.linkedin.com/in/shobhit-sharma-42b2b5199/)
-- [Instagram](https://www.instagram.com/_.__sl4yer__._/)
+* **High-Performance Dashboards:** Developed a Global Trading System (GTS) interface handling live market data with sub-100ms latency requirements using optimistic UI updates, and crypto analytic dashboards tracking 100+ assets via WebSocket streams.
+* **Web3 Infrastructure:** Architected real-time block explorers for custom appchains processing thousands of live events per minute, and designed resilient cross-chain bridge portals.
+* **Decentralized Apps:** Built full frontend architectures for AMM-based Decentralized Exchanges (DEX) and scalable NFT marketplace storefronts leveraging IPFS.
+* **Conversational AI:** Integrated context-aware LLM APIs into production interfaces with streaming responses and persistent memory.
 
 ---
 
-_“Write code like you mean it, build infra like it matters.”_
+### 🤓 Beyond the Screen
+
+When I'm not optimizing Core Web Vitals or debugging WebSockets, you can find me diving into my off-screen hobbies:
+* 📚 **Book Collector:** I have a curated library of over 150 novels.
+* ♠️ **Card Enthusiast:** I passionately collect unique playing cards.
+* 🧠 **Tech Philosophy:** I'm a big advocate for privacy tech, homomorphic encryption, and open protocols.
+
+---
+
+### 🌐 Let's Connect
+
+Whether it's about building scalable infra, collaborating on open-source, or networking with fellow engineers, my inbox is open.
+
+* **Portfolio:** [shobhitsharma.in](https://shobhitsharma.in)
+* **Email:** [shobhitsks29@gmail.com](mailto:shobhitsks29@gmail.com)
+* **GitHub:** [@SlayeR6889](https://github.com/SlayeR6889)
+* **LinkedIn:** [Shobhit Sharma](https://www.linkedin.com/in/shobhit-sharma-42b2b5199/)
+* **X / Twitter:** [@Sl4yeR29](https://x.com/Sl4yeR29)
+
+> _“Write code like you mean it, build infra like it matters.”_
